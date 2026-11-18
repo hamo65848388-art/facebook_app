@@ -1,0 +1,34 @@
+name: facebook
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image1.jpg
+    - assets/image2.jpg
+    - assets/image3.jpg
+    - assets/image4.jpg
+    - assets/model1.jpg
+    - assets/model2.jpg
+    - assets/model3.jpg
+    - assets/model4.jpg
+    - assets/096ff7fd728e880bca931a69a1417a5f.jpg
+    - assets/394207767_709508957870739_4789263993603935944_n.jpg
+    - assets/429820590_791043733050594_2437304548159507703_n.jpg
